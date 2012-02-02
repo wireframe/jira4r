@@ -1,5 +1,5 @@
 require 'rubygems'
-gem 'soap4r'
+gem 'soap4r-ruby1.9'
 
 require "soap/rpc/driver"
 require "soap/mapping"
